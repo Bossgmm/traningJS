@@ -10,7 +10,7 @@
 //№2
 // let str = prompt();
 
-// console.log("Длина строки " + str.length);
+// console.log("str.length);
 
 //№3
 // let str = prompt();
@@ -29,8 +29,35 @@
 // let str1 = prompt();
 // let str2 = prompt();
 
-// if(str1.at() == str2.at())
-//     console.log('OK');
-// else
-//     console.log('NEOK');
+// if (str1.at() == str2.at()) console.log("OK");
+// else console.log("No OK");
 
+//Уровень 1.2
+//№1
+// const numb = 12345;
+// console.log(Number(numb.toString().at()));
+
+//№2
+// const numb = 12345;
+// console.log(Number(numb.toString().at(-1)));
+
+//№3
+// const numb = 123456789;
+// let first = Number(numb.toString().at());
+// let last = Number(numb.toString().at(-1));
+
+// console.log(first + last);
+
+//№4
+// const numb = 123456;
+// console.log(numb.toString().length);
+
+//№5
+// const a = 123456;
+// const b = 123443;
+
+// if (a.toString().at() === b.toString().at()) console.log("OK");
+// else console.log("No OK");
+
+//Уровень 1.3
+//№1
