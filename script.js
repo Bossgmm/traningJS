@@ -61,3 +61,40 @@
 
 //Уровень 1.3
 //№1
+// const str = "go home";
+
+// if (str.length > 1) console.log(str.at(-2));
+// else console.log("no");
+
+//№2
+// let a = prompt();
+// let b = prompt();
+
+// if(a % b === 0) console.log("good");
+// else console.log("bad");
+
+//Уровень 1.4
+//№1
+// for (let i = 1; i <= 100; i++) {
+//     console.log(i);
+// }
+
+//№2
+// for (let i = -100 ; i <= 0; i++) {
+//     console.log(i);
+// }
+
+//№3
+// for (let i = 100; i >= 1; i--) {
+//     console.log(i);
+// }
+
+//№4
+// for (let i = 1; i <= 100; i++) {
+//     if(i % 2 === 0) console.log(i);
+// }
+
+//№5
+// for (let i = 1; i <= 100; i++) {
+//     if(i % 3 === 0) console.log(i);
+// }
