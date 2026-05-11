@@ -98,3 +98,49 @@
 // for (let i = 1; i <= 100; i++) {
 //     if(i % 3 === 0) console.log(i);
 // }
+
+//Уровень 1.5
+//№1
+// let sum = 0;
+// for (let i = 1; i <= 100; i++) {
+//   sum += i;
+// }
+
+// console.log(sum);
+
+//№2
+// let sum = 0;
+// for (let i = 1; i <= 100; i++) {
+//   if (i % 2 === 0) sum += i;
+// }
+
+// console.log(sum);
+
+//№3
+// let sum = 0;
+// for (let i = 1; i <= 100; i++) {
+//   if (i % 2 !== 0) sum += i;
+// }
+
+// console.log(sum);
+
+//№4
+// let a, b;
+// a = 2;
+// b = 5;
+
+// sum = a % b;
+// console.log(sum);
+
+//№5
+// const text = "abcde";
+// const words = text.split("");
+// for (let i = 0; i < words.length; i++) {
+//   const element = words[i];
+//   console.log(element);
+// }
+
+//Уровень 1.6
+//№1
+
+
